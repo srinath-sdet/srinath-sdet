@@ -1,18 +1,26 @@
 # Hi there, I'm Srinath 👋 
 
-### 🚀 QA & Automation Test Engineer | SDET Enthusiast
+### 🚀 QA Automation Engineer & Backend Developer | Linux Enthusiast
 
-Enthusiastic and detail-oriented **Automation Test Engineer** passionate about building robust automated testing suites, ensuring flawless software quality, and streamlining CI/CD pipelines.
+Experienced **Automation Test Engineer & Web Developer** specializing in building reliable automated test suites, developing server-side web applications using **PHP**, automating workflows with **Shell/Bash Scripting**, and managing **Linux Environments**.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Technical Skills
 
-- **Testing & QA:** Automation Testing, Functional Testing, Regression Testing, API Testing
-- **Tools & Frameworks:** Selenium, Playwright, Cypress, Postman, JMeter, TestNG, Cucumber
-- **Languages:** Python, Java, JavaScript, PHP
-- **CI/CD & DevOps:** Git, GitHub Actions, Jenkins, Docker
-- **Databases:** MySQL, PostgreSQL
+- **QA & Automation:** Automation Testing, Functional & Regression Testing, API Testing, Postman, Selenium, TestNG
+- **Development & Backend:** PHP (OOP, MVC), MySQL, REST APIs, HTML5, CSS3, JavaScript, jQuery
+- **Scripting & Automation:** Shell / Bash Scripting, Python, Task Automations & Cron Jobs
+- **System Administration:** Linux Administration (Ubuntu/Debian, CentOS/RHEL, LAMP Stack, Apache, SSH, Server Monitoring)
+- **DevOps & Version Control:** Git, GitHub, CI/CD Pipelines
+
+---
+
+### 💻 What I Do
+
+- 🔍 **Testing:** Designing and executing robust automated and manual test strategies.
+- ⚙️ **Backend Engineering:** Developing scalable web applications with PHP & relational databases.
+- 🐧 **Linux & Scripting:** Automating server tasks, log parsing, backups, and deploying on Linux environments.
 
 ---
 
@@ -34,4 +42,4 @@ Enthusiastic and detail-oriented **Automation Test Engineer** passionate about b
 - ✉️ **Email:** [shrinathshri06@gmail.com](mailto:shrinathshri06@gmail.com)
 
 ---
-*⚡ "Quality is not an act, it is a habit."*
+*⚡ "Automation speeds up what you understand; scripting frees your time to understand more."*
