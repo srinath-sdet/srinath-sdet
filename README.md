@@ -12,7 +12,7 @@ Experienced **Automation Test Engineer & Web Developer** specializing in buildin
 - **Development & Backend:** PHP (OOP, MVC), MySQL, REST APIs, HTML5, CSS3, JavaScript, jQuery
 - **Scripting & Automation:** Shell / Bash Scripting, Python, Task Automations & Cron Jobs
 - **System Administration:** Linux Administration (Ubuntu/Debian, CentOS/RHEL, LAMP Stack, Apache, SSH, Server Monitoring)
-- **DevOps & Version Control:** Git, GitHub, CI/CD Pipelines
+- **DevOps & Version Control:** Git, GitHub Actions, CI/CD Pipelines
 
 ---
 
@@ -27,18 +27,18 @@ Experienced **Automation Test Engineer & Web Developer** specializing in buildin
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudo-sri&show_icons=true&theme=tokyonight&count_private=true" alt="Srinath GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srinath-sdet&show_icons=true&theme=tokyonight&count_private=true" alt="Srinath GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-sri&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinath-sdet&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-- 💼 **GitHub:** [sudo-sri](https://github.com/sudo-sri)
+- 💼 **GitHub:** [srinath-sdet](https://github.com/srinath-sdet)
 - ✉️ **Email:** [shrinathshri06@gmail.com](mailto:shrinathshri06@gmail.com)
 
 ---
